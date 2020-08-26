@@ -15,5 +15,9 @@
 	<sitemap>
 		<loc>https://masesgroup.github.io/JCOSWTBridge/sitemap.xml</loc>
 		<lastmod>2020-08-08T10:23:11+00:00</lastmod>
-	</sitemap>	
+	</sitemap>
+	<sitemap>
+		<loc>https://masesgroup.github.io/sinapse/sitemap.xml</loc>
+		<lastmod>2020-08-08T10:23:11+00:00</lastmod>
+	</sitemap>
 </sitemapindex>
