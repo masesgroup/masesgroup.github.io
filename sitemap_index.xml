@@ -2,22 +2,26 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc>https://masesgroup.github.io/sitemap.xml</loc>
-		<lastmod>2020-07-04T10:23:11+00:00</lastmod>
+		<lastmod>2020-08-27T10:23:11+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://masesgroup.github.io/JCOBridge-Examples/sitemap.xml</loc>
-		<lastmod>2020-07-04T10:23:11+00:00</lastmod>
+		<lastmod>2020-08-27T10:23:11+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://masesgroup.github.io/JCOReflector/sitemap.xml</loc>
-		<lastmod>2020-08-08T10:23:11+00:00</lastmod>
+		<lastmod>2020-08-27T10:23:11+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://masesgroup.github.io/JCOSWTBridge/sitemap.xml</loc>
-		<lastmod>2020-08-08T10:23:11+00:00</lastmod>
+		<lastmod>2020-08-27T10:23:11+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://masesgroup.github.io/sinapse/sitemap.xml</loc>
-		<lastmod>2020-08-08T10:23:11+00:00</lastmod>
+		<lastmod>2020-08-27T10:23:11+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://masesgroup.github.io/JCOBridge/sitemap.xml</loc>
+		<lastmod>2020-08-27T10:23:11+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
